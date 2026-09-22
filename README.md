@@ -91,7 +91,7 @@ The 2021 figures represent only a partial year and should therefore not be direc
 
 ## Dashboard
 
-![Global Electronics Sales Dashboard](images/dashboard.png)
+<img width="1412" height="1114" alt="Dashboard" src="https://github.com/user-attachments/assets/13219375-e922-4b45-bfbd-31c00484ea6d" />
 
 The dashboard allows users to interactively filter the analysis by:
 
@@ -123,3 +123,10 @@ The Global Electronics Retailer dataset was obtained from the Maven Analytics Da
 **Aaron Yunusa**
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
+
+<img width="1672" height="941" alt="Power Query" src="https://github.com/user-attachments/assets/a328c45a-67d1-4cfa-b268-b25d02adb3f9" />
+<img width="1672" height="941" alt="Analysis" src="https://github.com/user-attachments/assets/6331d57c-70cb-415a-8100-313907e9fb23" />
+<img width="1536" height="1024" alt="Table RelationShip" src="https://github.com/user-attachments/assets/414c6249-70d3-4037-abd9-e71bf237b82d" />
+
+[Global_Electronics_Sales_Analysis.xlsx.xlsx](https://github.com/user-attachments/files/32541121/Global_Electronics_Sales_Analysis.xlsx.xlsx)
+
